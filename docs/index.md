@@ -2,10 +2,10 @@
 title: "Lesson 3: Data Wrangling with Pandas"
 ---
 
-## Student: STUDENT_NAME
+## Student: Johannes Burgers
 
-**Course:** DS 101 — Introduction to Data Science  
-**Assignment:** Lesson 3 — Data Wrangling with Pandas  
+**Course:** DS 101 — Introduction to Data Science
+**Assignment:** Lesson 3 — Data Wrangling with Pandas
 
 ---
 
