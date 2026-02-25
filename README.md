@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=22868183)
 # DS 101: Python Data Science Lessons
 
 A comprehensive series of hands-on lessons that teach students how to scrape, wrangle, analyze, and visualize data from Reddit using Python. This package provides a complete data science workflow from data collection to advanced analysis techniques including geospatial analysis and sentiment analysis.
